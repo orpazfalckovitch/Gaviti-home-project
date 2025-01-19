@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/053b1b77-f61d-4a06-adb8-937aeae28b3d)
+
 # gaviti-project
 
 This template should help get you started developing with Vue 3 in Vite.
